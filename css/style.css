@@ -1,0 +1,18 @@
+.body{
+    padding: 50px;
+   
+}
+
+.container{
+    max-width: 600px;
+     margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 80px;
+    box-shadow: rgba(22, 180, 35, 0.2) 0px 7px 29px 0px ; 
+    background-color: white;
+}
+
+.form-group{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
